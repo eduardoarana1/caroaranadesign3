@@ -3364,7 +3364,7 @@ input, textarea {
         background-repeat: no-repeat;
         background-size: cover;
         padding: 0;
-        width: 65%;
+        width: 60%;
         max-width: 1000px;
         border-radius: 10px;
         font-family: "Poppins", serif;
@@ -3404,11 +3404,11 @@ input, textarea {
 
     .btn {
         background-color: blue;
-        width: 120px;
+        width: 100px;
         align-self: flex-end;
         cursor: pointer;
         font-size: 12px;
-        margin-top: 4px;
+        margin-top: 2px;
     }
 
     .btn:hover {
@@ -5829,6 +5829,7 @@ input, textarea {
     }
 
 }
+
 
 
 
