@@ -3364,7 +3364,7 @@ input, textarea {
         background-repeat: no-repeat;
         background-size: cover;
         padding: 0;
-        width: 70%;
+        width: 65%;
         max-width: 1000px;
         border-radius: 10px;
         font-family: "Poppins", serif;
@@ -3373,7 +3373,7 @@ input, textarea {
     }
 
     .form-content h2 {
-        font-size: 22px;
+        font-size: 20px;
         margin-bottom: 1px;
         color: #ebe7e7;
     }
@@ -3391,7 +3391,7 @@ input, textarea {
     }
 
     input, textarea {
-        padding: 1px 4px;
+        padding: 1px 2px;
         border: 0;
         font-size: 12px;
         margin-bottom: 1px;
@@ -5829,6 +5829,7 @@ input, textarea {
     }
 
 }
+
 
 
 
