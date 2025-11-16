@@ -311,22 +311,22 @@ html {
 }
 
 #slides .slide_2 {
-    background-image: url(img/Composition_cbdstore-90per.svg);
+    background-image: url(img/CDMX-90per.svg);
     background-repeat: no-repeat;
 }
 
 #slides .slide_3 {
-    background-image: url(img/Damsa_identidad-90per.svg);
+    background-image: url(img/CDMX-90per.svg);
     background-repeat: no-repeat;
 }
 
 #slides .slide_4 {
-    background-image: url(img/Gif_insomnio-90per.svg);
+    background-image: url(img/CDMX-90per.svg);
     background-repeat: no-repeat;
 }
 
 #slides .slide_5 {
-    background-image: url(img/Unifin_factoring-90per.svg);
+    background-image: url(img/CDMX-90per.svg);
     background-repeat: no-repeat;
 }
 
@@ -5829,6 +5829,7 @@ input, textarea {
     }
 
 }
+
 
 
 
