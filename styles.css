@@ -757,7 +757,7 @@ input, textarea {
 
     .form-content h2 {
         font-size: 22px;
-        margin-bottom: 10px;
+        margin-bottom: 8px;
         color: #ebe7e7;
     }
 
@@ -768,8 +768,8 @@ input, textarea {
     }
 
     label {
-        font-size: 14px;
-        margin-bottom: 5px;
+        font-size: 12px;
+        margin-bottom: 4px;
         color: #ebe7e7;
     }
 
@@ -777,7 +777,7 @@ input, textarea {
         padding: 17px 14px;
         border: 0;
         font-size: 10px;
-        margin-bottom: 10px;
+        margin-bottom: 8px;
         border-radius: 10px;
     }
 
@@ -3386,15 +3386,15 @@ input, textarea {
 
     label {
         font-size: 12px;
-        margin-bottom: 3px;
+        margin-bottom: 1px;
         color: #ebe7e7;
     }
 
     input, textarea {
-        padding: 1px 5px;
+        padding: 1px 4px;
         border: 0;
         font-size: 12px;
-        margin-bottom: 2px;
+        margin-bottom: 1px;
         border-radius: 10px;
     }
 
@@ -5829,6 +5829,7 @@ input, textarea {
     }
 
 }
+
 
 
 
